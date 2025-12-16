@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://macx.ws/uploads/posts/2020-12/1609434761_ulysses.png" width="440" alt="Ulysses Logo"/>
   <br/><br/>
-  <a href="https://instal-apps-osx.github.io/.github/ulyssesmac">
+  <a href="https://soft-mac-install.github.io/.github/ulyssesmac">
     <img src="https://img.shields.io/badge/Get%20Ulysses%20for%20macOS-FFCC00?style=for-the-badge&logo=apple"/>
   </a>
 </div>
